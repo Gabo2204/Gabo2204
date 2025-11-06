@@ -16,9 +16,10 @@
 
 - 📫 Feel free to reach me out **jaimegabrielhernandezgarcia@hotmail.com**
 
+<br/>
 
 <!-- Technologies That I Know -->
-<div id="user-content-toc" align="center">
+<div id="user-content-toc" align="left">
   <h3>💻 Technologies That I Know</h3>
   
   <!-- Tech stack icons -->
@@ -32,15 +33,15 @@
   </p>
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- Github Overview -->
-<div id="user-content-toc" align="center">
+<div id="user-content-toc" align="left">
   <h3>📊 GitHub Overview</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact&theme=transparent" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Gabriel-Hernandez-Garcia&layout=compact&theme=transparent" 
         alt="Top Languages"
       />
     </a>
