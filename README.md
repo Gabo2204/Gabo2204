@@ -35,18 +35,16 @@
 
 <br/>
 
-<!-- Github Overview -->
-<div id="user-content-toc" align="left">
+<!-- 📊 GitHub Overview 
+<div align="left">
   <h3>📊 GitHub Overview</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Gabriel-Hernandez-Garcia&layout=compact&theme=transparent" 
-        alt="Top Languages"
-      />
-    </a>
-  </p>
-</div>
+  <div style="width: 100%; max-width: 400px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo2204&layout=compact&theme=dark&hide_border=true"
+      alt="Top Languages"
+    />
+  </div>
+</div>-->
 
  
 
