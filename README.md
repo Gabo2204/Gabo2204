@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gabriel 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Gabo2204)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachin93)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok)](https://www.linkedin.com/in/sachin93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/jaime-gabriel-hernandez-garcía-b437502aa?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok)](https://www.linkedin.com/in/gabrielhernandez22)
 
 ### I'm a student of computer system engineer 
 
